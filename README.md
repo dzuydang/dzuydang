@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Dzuy (zoo-wee) 👋
 - 🌱 I’m currently learning Java and Python
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with networking and meeting current software engineers!
